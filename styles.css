@@ -3,6 +3,23 @@ body {
   background-color: #011F3F;
 }
 
+div h3{
+  height: 30px;
+  width: 100vw;
+  border-color: solid white;
+  box-shadow: 20px 30px;
+  margin-bottom: 50px;
+}
+
+h3{
+  color: white;
+}
+
+h3:hover{
+  cursor: pointer;
+  color: rgb(243, 243, 52);
+}
+
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
